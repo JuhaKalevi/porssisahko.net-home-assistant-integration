@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "transfer_fee": "Transfer Fee (€/kWh)"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "transfer_fee": "Transfer Fee (€/kWh)"
+        }
+      }
+    }
+  }
+}

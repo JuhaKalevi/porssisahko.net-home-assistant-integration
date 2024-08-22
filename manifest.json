@@ -1,0 +1,11 @@
+{
+    "domain": "porssisahko_price",
+    "name": "Porssisahko Price",
+    "config_flow": true,
+    "documentation": "https://gitlab.psychedelic.fi/Bunnyh/porssisahko.net-home-assistant-integration",
+    "dependencies": [],
+    "codeowners": ["@JuhaKalevi"],
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "version": "0.1.1"
+}
